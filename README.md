@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://prnt.sc/107mhid)
+![screenshot](https://user-images.githubusercontent.com/77905816/109310655-19735f00-7845-11eb-8850-ca4fa50023e9.png)
 
 ## Features
 

@@ -96,6 +96,7 @@ nav p {
   font-family: "Space Mono", monospace;
   text-transform: uppercase;
   padding: 1.5rem 3rem;
+  cursor: pointer;
 }
 
 @media (min-width: 60rem) {
