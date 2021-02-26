@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ============ COLORS =========== */
+
+$gray1: #333333;
+$gray2: #4f4f4f;
+$white: #fff;
+
+/*======== FONT SIZES ========== */
+
+$fs1: 3rem;
+$fs2: 1.125rem;
+$fs3: 1.5rem;
+$fs4: 0.875rem;
+$fs5: 4rem;
+
+$fw400: 400;
+$fw700: 700;
+
+/*========= FONT FAMILIES ======*/
+$ffincosolata: 'Inconsolata', monospace;
+
+$ffspacemono: 'Space Mono', monospace;
